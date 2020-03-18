@@ -1,0 +1,4 @@
+/* pages/creat/creat.wxss */
+#top{
+  text-align: center;
+}

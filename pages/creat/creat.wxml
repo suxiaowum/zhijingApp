@@ -1,0 +1,6 @@
+<!--pages/creat/creat.wxml-->
+<view>
+	<view id="top">
+		<van-button type="primary" bindtap="scanCode">扫描设备二维码</van-button>
+	</view>
+</view>
